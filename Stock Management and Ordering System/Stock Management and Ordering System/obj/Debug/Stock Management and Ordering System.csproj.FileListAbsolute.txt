@@ -1,0 +1,18 @@
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\bin\Debug\Stock Management and Ordering System.exe.config
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\bin\Debug\Stock Management and Ordering System.exe
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\bin\Debug\Stock Management and Ordering System.pdb
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.csproj.AssemblyReference.cache
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.csproj.SuggestedBindingRedirects.cache
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.LoginUser.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.Properties.Resources.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.StockEmployee.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.csproj.GenerateResource.cache
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.exe
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock Management and Ordering System.pdb
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.StockManager.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.Register.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.AddStock.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.Dialog.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.Orders.resources
+C:\Users\James\OneDrive\Desktop\NCI\Project\Stock Management and Ordering System\obj\Debug\Stock_Management_and_Ordering_System.OrdersEmployee.resources
